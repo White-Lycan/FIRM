@@ -1,4 +1,4 @@
-# FIRM
+# SOAT - Simple Online Accountability Token
 
 Accountability is a funny thing... It is hard to gain and keep but very easy to lose. 
 
